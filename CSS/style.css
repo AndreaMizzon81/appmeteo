@@ -1,0 +1,99 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i');
+
+*{
+  font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+line-height: normal;
+font-size: 18px;
+letter-spacing: 0.1em;
+
+color: #EEEEEE!important;
+}
+
+
+.mattino{
+  display: grid;
+  position:relative;
+  text-align:center;
+}
+.pomeriggio{
+  position: relative;
+  text-align: center;
+}
+.sera{
+  position: relative;
+  text-align: center;
+}
+.container {
+  position:relative;
+width: 344px;
+height: 285px;
+left: 0px;
+top: 0px;
+margin-top: 12px;
+margin-left: 6px;
+
+background: #1181C8;
+opacity: 0.75;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 10px;
+
+}
+
+
+.navbar{
+  position: fixed!important;
+width: 100%;
+padding-top: 0px;
+top: 0px!important;
+}
+
+
+.bg-light{
+  background-color:#1181C8!important;
+}
+.container2 {
+  position: relative;
+  width: 344px;
+  height: 144px;
+  left: 6px;
+  top: 0px;
+  margin-top: 12px;
+
+  background: #1181C8;
+  opacity: 0.75;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 10px;
+}
+
+
+.pulsante_1{
+  position: relative;
+width: 57.3px;
+height: 58.45px;
+left: 151px;
+top: 0px;
+margin-top: 12
+}
+
+
+.swiper-container {
+  position: relative;
+  width: 344px;
+  height: 144px;
+  margin-left: 6px;
+  top: 0px;
+  margin-top: 12px;
+  background: #1181C8;
+  opacity: 0.75;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 10px;
+}
+    }
+    .swiper-slide {
+      width:35%;
+      text-align:center;
+      font-size: 14px;
+      letter-spacing: 0.1em;
+      background: #1181c8;
