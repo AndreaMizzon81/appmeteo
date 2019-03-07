@@ -43,11 +43,12 @@ border-radius: 10px;
 
 
 .navbar{
-  position: fixed!important;
-width: 100%;
-padding-top: 0px;
-top: 0px!important;
-background-color:#1181C8!important;
+  position: fixed;
+width: 360px;
+height:80px ;
+top: 0px;
+left:0px ;
+background-color:#193F5B;
 }
 
 
