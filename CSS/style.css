@@ -13,7 +13,7 @@ color: #EEEEEE!important;
 
 
 .mattino{
-  display: grid;
+  display:flex;
   position:relative;
   text-align:left;
 }
