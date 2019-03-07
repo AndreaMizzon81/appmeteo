@@ -15,7 +15,7 @@ color: #EEEEEE!important;
 .mattino{
   display: grid;
   position:relative;
-  text-align:center;
+  text-align:left;
 }
 .pomeriggio{
   position: relative;
@@ -23,7 +23,7 @@ color: #EEEEEE!important;
 }
 .sera{
   position: relative;
-  text-align: center;
+  text-align:right;
 }
 .container {
   position:relative;
