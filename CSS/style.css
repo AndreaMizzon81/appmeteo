@@ -49,6 +49,7 @@ height:80px ;
 top: 0px;
 left:0px ;
 background-color:#193F5B;
+z-index: 1; 
 }
 
 .body{
