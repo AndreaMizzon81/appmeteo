@@ -1,8 +1,9 @@
+
 var mySwiper = new Swiper('.swiper-container', {
+    direction:'horizontal',
     slidesPerView: 3,
     spaceBetween: 10,
-    pagination: {
-      el: '.swiper-pagination',
-      clickable: true,
-    },
+    freeMode: true,
+    
 });
+
